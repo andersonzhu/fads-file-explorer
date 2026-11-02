@@ -2,7 +2,7 @@
 
 Open a THECB Financial Aid Database (FAD) report file in your browser, read every student record as named, filterable columns, and find the records the FAD edit checks would flag before you upload to CBPass. You can also correct records and save the file back out.
 
-**Use it:** open `FADS File Explorer.html` in Chrome or Edge (double-click the file). There's nothing to install.
+**Use it now:** https://andersonzhu.github.io/fads-file-explorer/
 
 Everything runs in your browser tab. Files are read locally and never uploaded, so it's safe to use with student-level data. SSNs are masked on screen by default.
 
